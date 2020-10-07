@@ -207,7 +207,7 @@ body::-webkit-scrollbar {
 
 .main2 {
   z-index: -99;
-  height: 1500px;
+  height: 215vh;
   border-radius: 50px 50px 0px 0px;
 }
 
@@ -256,7 +256,7 @@ body::-webkit-scrollbar {
 
 .main3 {
   width: 100vw;
-  height: 1000px;
+  height: 130vh;
   background-image: linear-gradient(to top, #202c3d 0%, #314a6c 100%);
 }
 
